@@ -13,14 +13,14 @@
 
 ## Prerequisites
 Before running the project, make sure you have the following software installed on your machine:
-[Node.js-(V18)] (https://nodejs.org/)
-[MongoDB-(v6)] (https://www.mongodb.com/)
+ * [Node.js-(V18)] (https://nodejs.org/)
+ * [MongoDB-(v6)] (https://www.mongodb.com/)
 
 
 ## Installation
 1. clone the project repository to your local machine
 ```
-git clone https://github.com/naufal-dzaki/fake-tokopedia-play-api
+git clone https://github.com/Naufal-dzaki/GIGIH-TOKOPEDIA-PLAY-API.git
 ```
 2. Open a terminal or command prompt, navigate to the project's root directory, and install the required dependencies by running:
 ```
@@ -89,7 +89,7 @@ URL: http://localhost:8080/api/videos
 }
 ```
 
-***status code:***200
+***status code:*** 200
 
 ### Products
 
@@ -139,7 +139,7 @@ URL: http://localhost:8080/api/products/:videos_id
 }
 ```
 
-***status code:***200
+***status code:*** 200
 
 ### Comments
 
@@ -177,7 +177,7 @@ URL: http://localhost:8080/api/comments/
 }
 ```
 
-***status code:***201
+***status code:*** 201
 
 **b. Get Comment's List**
 ***End Point***
@@ -213,4 +213,4 @@ URL: http://localhost:8080/api/comments/:videos_id
 }
 ```
 
-***status code:***200
+***status code:*** 200
